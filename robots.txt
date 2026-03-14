@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anirbanchandra1.github.io/test-portfolio/sitemap.xml
+Sitemap: https://anirbanchandra1.github.io/sitemap.xml
