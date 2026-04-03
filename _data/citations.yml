@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-03'
 papers:
   Vjvd3ekAAAAJ:-f6ydRqryjwC:
-    citations: 8
+    citations: 9
     title: Understanding structure-processing relationships in metal additive manufacturing via featurization of microstructural images
     year: '2024'
   Vjvd3ekAAAAJ:0EnyYjriUFMC:
@@ -54,7 +54,7 @@ papers:
     title: A continuum framework for modeling liquid-vapor interfaces out of local thermal equilibrium
     year: '2019'
   Vjvd3ekAAAAJ:M3NEmzRMIkIC:
-    citations: 1
+    citations: 2
     title: 'Accelerating Porous Media Flow Simulations With Fourier Neural Operators: An Application to Geologic Storage of CO2'
     year: '2025'
   Vjvd3ekAAAAJ:MXK_kJrjxJIC:
@@ -94,7 +94,7 @@ papers:
     title: A Parallel Geometry and Mesh Infrastructure for Explicit Phase Tracking in Multiphase Problems
     year: '2017'
   Vjvd3ekAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 14
     title: Stokes flow inside topographically patterned microchannel using boundary element method
     year: '2017'
   Vjvd3ekAAAAJ:UebtZRa9Y70C:
@@ -106,7 +106,7 @@ papers:
     title: Mass accommodation at a high-velocity water liquid-vapor interface
     year: '2019'
   Vjvd3ekAAAAJ:Y0pCki6q_DkC:
-    citations: 19
+    citations: 20
     title: A non-primitive boundary element technique for modeling flow through non-deformable porous medium using Brinkman equation
     year: '2018'
   Vjvd3ekAAAAJ:YFjsv_pBGBYC:
@@ -126,7 +126,7 @@ papers:
     title: Fourier Neural Operator based surrogates for  storage in realistic geologies
     year: '2024'
   Vjvd3ekAAAAJ:_kc_bZDykSQC:
-    citations: 18
+    citations: 19
     title: Thermal transport dynamics in active heat transfer fluids (AHTF)
     year: '2021'
   Vjvd3ekAAAAJ:bEWYMUwI8FkC:
