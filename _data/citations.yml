@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-22'
 papers:
   Vjvd3ekAAAAJ:-f6ydRqryjwC:
     citations: 9
@@ -14,7 +14,7 @@ papers:
     title: On the applicability of continuum scale models for ultrafast nanoscale liquid-vapor phase change
     year: '2021'
   Vjvd3ekAAAAJ:4JMBOYKVnBMC:
-    citations: 4
+    citations: 5
     title: Accelerated ccs site screening using fourier neural operator based surrogates for flow simulations
     year: '2026'
   Vjvd3ekAAAAJ:7PzlFSSx8tAC:
