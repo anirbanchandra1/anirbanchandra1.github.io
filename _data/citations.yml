@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-29'
 papers:
   Vjvd3ekAAAAJ:-f6ydRqryjwC:
     citations: 9
@@ -14,7 +14,7 @@ papers:
     title: On the applicability of continuum scale models for ultrafast nanoscale liquid-vapor phase change
     year: '2021'
   Vjvd3ekAAAAJ:4JMBOYKVnBMC:
-    citations: 5
+    citations: 6
     title: Accelerated ccs site screening using fourier neural operator based surrogates for flow simulations
     year: '2026'
   Vjvd3ekAAAAJ:7PzlFSSx8tAC:
@@ -37,6 +37,10 @@ papers:
     citations: 0
     title: Partial recovery of meter-scale surface weather
     year: '2026'
+  Vjvd3ekAAAAJ:GnPB-g6toBAC:
+    citations: 0
+    title: Quantifying the Uncertainty of the 3D Evolution of CO2-Mass and Pressure Plumes for Site Screening Applications with Physics-Informed Fourier Neural Operators
+    year: '2026'
   Vjvd3ekAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: Unstructured Finite Elements and Dynamic Meshing for Explicit Phase Tracking in Multiphase Problems
@@ -54,7 +58,7 @@ papers:
     title: A continuum framework for modeling liquid-vapor interfaces out of local thermal equilibrium
     year: '2019'
   Vjvd3ekAAAAJ:M3NEmzRMIkIC:
-    citations: 2
+    citations: 3
     title: 'Accelerating Porous Media Flow Simulations With Fourier Neural Operators: An Application to Geologic Storage of CO2'
     year: '2025'
   Vjvd3ekAAAAJ:MXK_kJrjxJIC:
@@ -74,7 +78,7 @@ papers:
     title: Multi-stage heterogeneous bubble nucleation under negative pressures
     year: '2023'
   Vjvd3ekAAAAJ:RHpTSmoSYBkC:
-    citations: 7
+    citations: 8
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Vjvd3ekAAAAJ:Se3iqnhoufwC:
@@ -102,7 +106,7 @@ papers:
     title: Flows in out-phase slip-patterned micro-channels using boundary element methods
     year: Unknown Year
   Vjvd3ekAAAAJ:WF5omc3nYNoC:
-    citations: 16
+    citations: 17
     title: Mass accommodation at a high-velocity water liquid-vapor interface
     year: '2019'
   Vjvd3ekAAAAJ:Y0pCki6q_DkC:
@@ -122,7 +126,7 @@ papers:
     title: Quantum kerr learning
     year: '2023'
   Vjvd3ekAAAAJ:_Qo2XoVZTnwC:
-    citations: 15
+    citations: 16
     title: Fourier Neural Operator based surrogates for  storage in realistic geologies
     year: '2024'
   Vjvd3ekAAAAJ:_kc_bZDykSQC:
