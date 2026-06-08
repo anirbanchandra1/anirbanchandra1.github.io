@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-08'
 papers:
   Vjvd3ekAAAAJ:-f6ydRqryjwC:
     citations: 9
     title: Understanding structure-processing relationships in metal additive manufacturing via featurization of microstructural images
     year: '2024'
   Vjvd3ekAAAAJ:0EnyYjriUFMC:
-    citations: 50
+    citations: 51
     title: A molecular dynamics study of transient evaporation and condensation
     year: '2020'
   Vjvd3ekAAAAJ:3fE2CSJIrl8C:
@@ -62,13 +62,17 @@ papers:
     title: 'Accelerating Porous Media Flow Simulations With Fourier Neural Operators: An Application to Geologic Storage of CO2'
     year: '2025'
   Vjvd3ekAAAAJ:MXK_kJrjxJIC:
-    citations: 54
+    citations: 55
     title: Investigating the validity of Schrage relationships for water using molecular dynamics simulations
     year: '2020'
   Vjvd3ekAAAAJ:NMxIlDl6LWMC:
     citations: 0
     title: Calibrated Probabilistic Wind Forecasting with Diffusion Models
     year: '2025'
+  Vjvd3ekAAAAJ:O3NaXMp0MMsC:
+    citations: 0
+    title: Harnessing AtomisticSkills for Agentic Atomistic Research
+    year: '2026'
   Vjvd3ekAAAAJ:QIV2ME_5wuYC:
     citations: 0
     title: Potential of Active Particles for Heat Transfer Enhancement
@@ -78,7 +82,7 @@ papers:
     title: Multi-stage heterogeneous bubble nucleation under negative pressures
     year: '2023'
   Vjvd3ekAAAAJ:RHpTSmoSYBkC:
-    citations: 8
+    citations: 10
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Vjvd3ekAAAAJ:Se3iqnhoufwC:
@@ -126,7 +130,7 @@ papers:
     title: Quantum kerr learning
     year: '2023'
   Vjvd3ekAAAAJ:_Qo2XoVZTnwC:
-    citations: 17
+    citations: 16
     title: Fourier Neural Operator based surrogates for  storage in realistic geologies
     year: '2024'
   Vjvd3ekAAAAJ:_kc_bZDykSQC:
