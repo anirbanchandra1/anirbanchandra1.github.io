@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-19'
 papers:
   Vjvd3ekAAAAJ:-f6ydRqryjwC:
     citations: 9
     title: Understanding structure-processing relationships in metal additive manufacturing via featurization of microstructural images
     year: '2024'
   Vjvd3ekAAAAJ:0EnyYjriUFMC:
-    citations: 52
+    citations: 53
     title: A molecular dynamics study of transient evaporation and condensation
     year: '2020'
   Vjvd3ekAAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: Partial recovery of meter-scale surface weather
     year: '2026'
   Vjvd3ekAAAAJ:GnPB-g6toBAC:
-    citations: 0
+    citations: 1
     title: Quantifying the Uncertainty of the 3D Evolution of CO2-Mass and Pressure Plumes for Site Screening Applications with Physics-Informed Fourier Neural Operators
     year: '2026'
   Vjvd3ekAAAAJ:IjCSPb-OGe4C:
@@ -62,7 +62,7 @@ papers:
     title: 'Accelerating Porous Media Flow Simulations With Fourier Neural Operators: An Application to Geologic Storage of CO2'
     year: '2025'
   Vjvd3ekAAAAJ:MXK_kJrjxJIC:
-    citations: 54
+    citations: 57
     title: Investigating the validity of Schrage relationships for water using molecular dynamics simulations
     year: '2020'
   Vjvd3ekAAAAJ:NMxIlDl6LWMC:
@@ -82,7 +82,7 @@ papers:
     title: Multi-stage heterogeneous bubble nucleation under negative pressures
     year: '2023'
   Vjvd3ekAAAAJ:RHpTSmoSYBkC:
-    citations: 10
+    citations: 12
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Vjvd3ekAAAAJ:Se3iqnhoufwC:
@@ -170,13 +170,9 @@ papers:
     title: Evaluation metrics for the atlas ccs project using an ai assisted workflow
     year: '2024'
   Vjvd3ekAAAAJ:maZDTaKrznsC:
-    citations: 10
+    citations: 11
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
-  Vjvd3ekAAAAJ:ns9cj8rnVeAC:
-    citations: 5
-    title: 394. Electrophilic reactions of the anilinium cotation
-    year: '1965'
   Vjvd3ekAAAAJ:qjMakFHDy7sC:
     citations: 4
     title: Coaxial boron-nitride/carbon nanotubes as a potential replacement for double-walled carbon nanotubes for high strain applications
@@ -186,11 +182,11 @@ papers:
     title: Exploring the effect of temperature discontinuity at interfaces in transient liquid-vapor phase change processes
     year: '2019'
   Vjvd3ekAAAAJ:u-x6o8ySG0sC:
-    citations: 22
+    citations: 23
     title: Thermomechanical buckling of boron nitride nanotubes using molecular dynamics
     year: '2016'
   Vjvd3ekAAAAJ:u5HHmVD_uO8C:
-    citations: 13
+    citations: 16
     title: Thermal vibration characteristics of armchair boron-nitride nanotubes
     year: '2015'
   Vjvd3ekAAAAJ:ufrVoPGSRksC:
