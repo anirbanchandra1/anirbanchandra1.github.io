@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-31'
 papers:
   Vjvd3ekAAAAJ:-f6ydRqryjwC:
     citations: 9
     title: Understanding structure-processing relationships in metal additive manufacturing via featurization of microstructural images
     year: '2024'
   Vjvd3ekAAAAJ:0EnyYjriUFMC:
-    citations: 53
+    citations: 54
     title: A molecular dynamics study of transient evaporation and condensation
     year: '2020'
   Vjvd3ekAAAAJ:3fE2CSJIrl8C:
@@ -130,7 +130,7 @@ papers:
     title: Quantum kerr learning
     year: '2023'
   Vjvd3ekAAAAJ:_Qo2XoVZTnwC:
-    citations: 18
+    citations: 19
     title: Fourier Neural Operator based surrogates for  storage in realistic geologies
     year: '2024'
   Vjvd3ekAAAAJ:_kc_bZDykSQC:
@@ -182,7 +182,7 @@ papers:
     title: Exploring the effect of temperature discontinuity at interfaces in transient liquid-vapor phase change processes
     year: '2019'
   Vjvd3ekAAAAJ:u-x6o8ySG0sC:
-    citations: 23
+    citations: 24
     title: Thermomechanical buckling of boron nitride nanotubes using molecular dynamics
     year: '2016'
   Vjvd3ekAAAAJ:u5HHmVD_uO8C:
